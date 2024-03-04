@@ -28,3 +28,11 @@ footer {
     
 }
 
+#media-networks  {
+    display: flex;
+    text-align: center;
+    align-content: space-evenly;
+    list-style-type: none;
+    padding: 1px;
+}
+
