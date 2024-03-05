@@ -1,8 +1,11 @@
 /* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 /*  asterisk (*) is used as a wildcard character*/
 * {
     padding: 0;
     margin: 0;
+    
 }
 
 h1,
@@ -11,6 +14,7 @@ h3 {
     color: black;
 
 }
+
 /* This is for hidding headings */
 .hidden-heading {
     display: none;
@@ -21,6 +25,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    font-family: 'Roboto', Montserrat;
 
 }
 
@@ -28,6 +33,22 @@ body {
 header {
     background-color: olive;
     padding-bottom: 2px;
+
+}
+
+#nav {
+    color: black;
+    width: 100%;
+    position: relative;
+
+
+
+}
+
+.list {
+    display: flex;
+    align-items: center;
+
 }
 
 /*Main*/
@@ -54,16 +75,16 @@ footer {
     justify-content: space-around;
     padding: 2px 0;
 }
+
 /* This was to target the ul list bullet points */
- ul#media-networks {
-    
+ul#media-networks {
+
     list-style: none;
-        
+
 }
 
 #media-networks i {
     color: black;
     font-size: 100%;
-    
-}
 
+}
