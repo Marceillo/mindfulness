@@ -72,14 +72,15 @@ header {
 
 /*Main*/
 main {
-    background-color: goldenrod;
+    background-color: #fffff;
     flex: 1;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
 }
+/* This code was used from the love running section*/
 #hero {
     height: 600px;
     width: 100%;
-    background: url(../gallery/pexels4-min-an-714644.jpg) no-repeat center center/cover;
+    background: url(../gallery/pexels-pranit-shelar1-15623265.jpg) no-repeat center center/cover;
 }
 
 
