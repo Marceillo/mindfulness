@@ -78,9 +78,9 @@ main {
 }
 /* This code was used from the love running section*/
 #hero {
-    height: 600px;
+    height: 500px;
     width: 100%;
-    background: url(../gallery/pexels-pranit-shelar1-15623265.jpg) no-repeat center center/cover;
+    background: url(../gallery/pexels2-pranit-shelar1-15623265.jpg) no-repeat center center/cover;
 }
 
 
