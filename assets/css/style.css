@@ -5,6 +5,8 @@
 * {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
+    
 
 }
 
@@ -31,27 +33,38 @@ body {
 
 /*Header*/
 header {
-    background-color: olive;
+    background-color:#808000;
     padding-bottom: 2px;
 
+
+}
+
+.home-content {
+    padding: 50px;
+    
 }
 
 /* target the display of the nav header */
 #nav {
     color: black;
     width: 100%;
-    position: sticky;
+    display: flex;
+    /*addjusting the nav to center*/
+    justify-content: center;
+
 
 }
 
 .list {
     list-style: none;
+    display: flex;
+    padding: 0;
 }
 
 
 .list li {
     display: inline-block;
-    position: relative;
+    margin: 0 10px;
 }
 
 .list li a {
@@ -76,7 +89,8 @@ main {
     flex: 1;
     padding-bottom: 0px;
 }
-/* This code was used from the love running section*/
+
+/* hero section inspired from the love running*/
 #hero {
     height: 500px;
     width: 100%;
@@ -86,7 +100,7 @@ main {
 
 /*Footer*/
 footer {
-    background-color: olive;
+    background-color: #808000;
     position: static;
     padding-top: 35px;
     list-style-type: none;
@@ -113,4 +127,12 @@ ul#media-networks {
     color: black;
     font-size: 100%;
 
+}
+
+/*Media command for differant screen sizes*/
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: center;
+    }
 }
