@@ -6,7 +6,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    
+
 
 }
 
@@ -33,7 +33,7 @@ body {
 
 /*Header*/
 header {
-    background-color:#808000;
+    background-color: #808000;
     padding-bottom: 1px;
 
 
@@ -41,12 +41,12 @@ header {
 
 .home-content {
     padding: 50px;
-    
+
 }
 
 /* target the display of the nav header */
 #nav {
-    
+
     width: 100%;
     display: flex;
     /*addjusting the nav to center*/
@@ -90,12 +90,14 @@ main {
     padding-bottom: 0px;
 }
 
+
+
 /* hero section inspired from the love running*/
 #hero {
     height: 500px;
     width: 100%;
     background: url(../gallery/pexels2-pranit-shelar1-15623265.jpg) no-repeat center center/cover;
-    
+
 }
 
 
@@ -138,23 +140,35 @@ ul#media-networks {
         top: 0;
         left: 0;
         width: 100%;
+
+    }
+
+    #nav {
+        font-size: 2.5vh;
+        padding: 0px 20px;
+        left: -1;
+
+    }
+
+    #nav li a {
+
+        font-size: 2.5vh;
+        padding: 7px 0px;
+
+    }
+
+    #hero {
+        height: 400px;
+        width: 120%;
         
     }
 
-#nav {
-    
-}
-
-#hero {
-    height: 300px;
-}
-
-    footer{
+    footer {
         background-color: #808000;
         position: fixed;
         bottom: 0;
         left: 0;
         width: 100%;
-    
+
     }
 }
