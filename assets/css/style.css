@@ -96,7 +96,7 @@ main {
 #hero {
     height: 500px;
     width: 100%;
-    background: url(../gallery/pexels2-pranit-shelar1-15623265.jpg) no-repeat center center/cover;
+    background: url(../gallery/11zon_cropped.jpeg) no-repeat center center/cover;
 
 }
 
@@ -133,8 +133,8 @@ ul#media-networks {
 }
 
 /*Media command for differant screen sizes*/
-@media (max-width: 768px)  {
-   
+@media (max-width: 768px) {
+
     header {
         background-color: #808000;
         position: fixed;
@@ -145,24 +145,26 @@ ul#media-networks {
     }
 
     #nav {
-        font-size: 20px;
-        padding: 0px 2px;
+        font-size: 12px;
+        padding: 1px 1px;
 
 
     }
 
     #nav li a {
 
-        font-size: 20px;
-        padding: 7px 0px;
+        font-size: 12px;
+        padding: 0px 0px;
+
 
     }
 
     #hero {
         height: 400px;
         width: 100%;
-        
-        
+
+
+
     }
 
     footer {
@@ -171,17 +173,41 @@ ul#media-networks {
         bottom: 0;
         left: 0;
         width: 100%;
-       
+
 
     }
 }
 
-@media (max-width: 1024px {
+@media (max-width: 1024px) {
 
-body {
-   font-size: 200px;
-  
-}
+    header {
+        background-color: #808000;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
 
+    #nav {
+        padding: 0px 1px;
+    }
+
+    #nav li a {
+        font-size: 20px;
+    }
+
+    .hero {
+        margin-top: 100px;
+    }
+
+    footer {
+        background-color: #808000;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+
+
+    }
 
 }
