@@ -34,7 +34,7 @@ body {
 /*Header*/
 header {
     background-color:#808000;
-    padding-bottom: 2px;
+    padding-bottom: 1px;
 
 
 }
@@ -95,6 +95,7 @@ main {
     height: 500px;
     width: 100%;
     background: url(../gallery/pexels2-pranit-shelar1-15623265.jpg) no-repeat center center/cover;
+    
 }
 
 
@@ -137,10 +138,15 @@ ul#media-networks {
         top: 0;
         left: 0;
         width: 100%;
+        
     }
 
 #nav {
     
+}
+
+#hero {
+    height: 300px;
 }
 
     footer{
