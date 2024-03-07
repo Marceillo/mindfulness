@@ -1,4 +1,4 @@
-# Paw's Play
+# Mindfulness
 
 ## Site Overview <a name="site-overview"></a>
 

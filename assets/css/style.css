@@ -100,6 +100,16 @@ main {
 
 }
 
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
 
 /*Footer*/
 footer {
@@ -133,7 +143,7 @@ ul#media-networks {
 }
 
 /*Media command for differant screen sizes*/
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
 
     header {
         background-color: #808000;
@@ -141,20 +151,21 @@ ul#media-networks {
         top: 0;
         left: 0;
         width: 100%;
+        z-index: 100;
 
     }
 
     #nav {
-        font-size: 12px;
-        padding: 1px 1px;
+        font-size: 10px;
+        padding: 0;
 
 
     }
 
     #nav li a {
 
-        font-size: 12px;
-        padding: 0px 0px;
+        font-size: 10px;
+        padding: 1px 1px;
 
 
     }
@@ -162,6 +173,7 @@ ul#media-networks {
     #hero {
         height: 400px;
         width: 100%;
+        margin-top: 5;
 
 
 
@@ -178,7 +190,7 @@ ul#media-networks {
     }
 }
 
-@media (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
 
     header {
         background-color: #808000;
@@ -186,18 +198,23 @@ ul#media-networks {
         top: 0;
         left: 0;
         width: 100%;
+        z-index: 100;
+
     }
 
     #nav {
-        padding: 0px 1px;
+        padding: 5px 1px;
+
     }
 
     #nav li a {
-        font-size: 20px;
+        font-size: 15px;
     }
 
-    .hero {
-        margin-top: 100px;
+    #hero {
+        height: 500px;
+        width: 100%;
+        margin-top: 30px;
     }
 
     footer {
@@ -209,5 +226,46 @@ ul#media-networks {
 
 
     }
+
+}
+
+@media screen and (min-width: 1025px) {
+
+    header {
+        background-color: #808000;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+       height: 45px;
+       z-index: 100;
+
+
+    }
+
+    #hero {
+        height: 500px;
+        width: 100%;
+        margin-top: 40px;
+    }
+
+    #nav {
+        padding: 0px;
+        font-size: 20px;
+    }
+
+  
+    
+
+    footer {
+        background-color: #808000;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+
+
+    }
+
 
 }
