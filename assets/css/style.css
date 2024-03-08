@@ -33,7 +33,7 @@ body {
 
 /*Header*/
 header {
-    background-color: #808000;
+    background-color: #767600;
     padding-bottom: 1px;
 
 
@@ -168,7 +168,7 @@ ul#media-networks {
 @media screen and (max-width: 768px) {
 
     header {
-        background-color: #808000;
+        background-color: #767600;
         position: fixed;
         top: 0;
         left: 0;
@@ -202,7 +202,7 @@ ul#media-networks {
     }
 
     footer {
-        background-color: #808000;
+        background-color: ##767600;
         position: fixed;
         bottom: 0;
         left: 0;
@@ -215,7 +215,7 @@ ul#media-networks {
 @media screen and (max-width: 1024px) {
 
     header {
-        background-color: #808000;
+        background-color: #767600;
         position: fixed;
         top: 0;
         left: 0;
@@ -240,7 +240,7 @@ ul#media-networks {
     }
 
     footer {
-        background-color: #808000;
+        background-color: #767600;
         position: fixed;
         bottom: 0;
         left: 0;
@@ -254,7 +254,7 @@ ul#media-networks {
 @media screen and (min-width: 1025px) {
 
     header {
-        background-color: #808000;
+        background-color: #767600;
         position: fixed;
         top: 0;
         left: 0;
@@ -280,7 +280,7 @@ ul#media-networks {
     
 
     footer {
-        background-color: #808000;
+        background-color: #767600;
         position: fixed;
         bottom: 0;
         left: 0;
