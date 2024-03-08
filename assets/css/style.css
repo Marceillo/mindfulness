@@ -40,8 +40,13 @@ header {
 }
 
 .home-content {
-    padding: 50px;
+    padding: 100px;
+    margin-bottom: 100px;
 
+}
+
+ .techniques-content {
+    padding: 150px;
 }
 
 /* target the display of the nav header */
