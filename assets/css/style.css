@@ -178,7 +178,7 @@ ul#media-networks {
     }
 
     #nav {
-        font-size: 10px;
+        font-size: 20px;
         padding: 0;
 
 
@@ -186,7 +186,7 @@ ul#media-networks {
 
     #nav li a {
 
-        font-size: 10px;
+        font-size: 20px;
         padding: 1px 1px;
 
 
@@ -195,7 +195,7 @@ ul#media-networks {
     #hero {
         height: 300px;
         width: 100%;
-        margin-top: 05;
+       
 
 
 
@@ -230,7 +230,7 @@ ul#media-networks {
     }
 
     #nav li a {
-        font-size: 15px;
+        font-size: 20px;
     }
 
     #hero {
