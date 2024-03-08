@@ -2,14 +2,15 @@
 
 ## Site Overview <a name="site-overview"></a>
 
-The Paw's Play website is a service for people who want a trusted daycare for their dogs, with eligibility criteria that separate it from the competition by only housing dogs that won't endanger dogs under its care.
-The users of this website will be able to find all relevant information about the daycare; for example an eligibility form, contact information and about Paw's Play.
+The site is about mindfulness, an ablitity of humans-beings to be fully present and aware of time and space around them. The site is small and strait to the point with a minimilistic feel. 
 
-![Responsive Site](../docs/readme/responsive-site.png)
 
-## Previous Repository <a name="previous-repository"></a>
 
-1 week into developing my project I ran into an issue where I was not able to push my commits to my previous repository, so I made this one. I copied my already written code and committed the code in relatively large commit sizes to speed up my development process. I am mentioning this because the Distinction criteria states the following _"There are no very large commits which make it harder to understand the development process and could lead the assessor to suspect plagiarism"_. So I hope this eliminates any confusion.
+
+## Previous Repository <a name="minfulness01"></a>
+
+One day into developing the site on Github the respository was not updating or synchronising with Gitpod.
+After a couple of hours of trial and error, I had to delete the repository and start over. Luckily I made a copy of the basic code and was able not to lose more time in the process.
 
 ## Table of contents
 
@@ -57,11 +58,10 @@ The users of this website will be able to find all relevant information about th
 
 ### Site Aims: <a name="site-aims"></a>
 
-- Access an eligibility page to determine if your dog meets our criteria for daycare, training, and other services.
-- Explore our homepage offering detailed information about our range of services, including specialized care for dogs and puppies, training programs, and more.
-- Discover our specialized puppy care services, ensuring the best start for your young furry friend in a safe and nurturing environment.
-- Learn about our expert-led dog training programs designed to enhance your dog's skills and behavior in various situations.
-- Gain insight into our values, mission, and the passionate team behind Paw's Play on our About Us page.
+- The goal of this site was to provide some information about mindfulness.
+- I wanted it to be minimalistic with a very simple but nice colour template.
+- The minimilistic approuch is always good leaving room for more features at a later stage.
+
 
 ### Target Audiences: <a name="target-audience"></a>
 

@@ -40,13 +40,13 @@ header {
 }
 
 .home-content {
-    padding: 100px;
-    margin-bottom: 100px;
+    padding: 20px;
+   
 
 }
 
  .techniques-content {
-    padding: 150px;
+    padding: 20px;
 }
 
 /* target the display of the nav header */
@@ -90,7 +90,7 @@ header {
 
 /*Main*/
 main {
-    background-color: #fffff;
+    background-color: #ffffff;
     flex: 1;
     padding-bottom: 0px;
 }
@@ -154,7 +154,7 @@ ul#media-networks {
 .form-center {
     display: flex;
     justify-content: center;
-    padding-bottom: 50px;
+    padding: 50px;
     color: #483c32;
     color: #483c32;
     
@@ -195,7 +195,7 @@ ul#media-networks {
     #hero {
         height: 300px;
         width: 100%;
-        margin-top: 5;
+        margin-top: 05;
 
 
 
