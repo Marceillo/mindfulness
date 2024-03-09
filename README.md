@@ -2,14 +2,14 @@
 
 ## Site Overview <a name="site-overview"></a>
 
-The site is about mindfulness, an ablitity of humans-beings to be fully present and aware of time and space around them. The site is small and strait to the point with a minimilistic feel. 
+The site is about mindfulness, the ability of human beings to be fully present and aware of time and space around them. The site is small and straight to the point with a minimalistic feel. 
 
 
 
 
 ## Previous Repository <a name="minfulness01"></a>
 
-One day into developing the site on Github the respository was not updating or synchronising with Gitpod.
+One day into developing the site on Github the repository was not updating or synchronising with Gitpod.
 After a couple of hours of trial and error, I had to delete the repository and start over. Luckily I made a copy of the basic code and was able not to lose more time in the process.
 
 ## Table of contents
@@ -19,9 +19,8 @@ After a couple of hours of trial and error, I had to delete the repository and s
 3. [**Planning stage**](#planning-stage)
    - [**_Site aims_**](#site-aims)
    - [**_Target audience_**](#target-audience)
-   - [**_User stories_**](#user-stories)
    - [**_How I will achieve this:_**](#how-i-will-achieve-this)
-     - [**_Wireframes_**](#wireframes)
+   - [**_Wireframes_**](#wireframes)
    - [**_Color scheme_**](#color-scheme)
 4. [**Elements used on all pages**](#elements-used-on-all-pages)
    - [**Header element**](#header-element)
@@ -60,46 +59,27 @@ After a couple of hours of trial and error, I had to delete the repository and s
 
 - The goal of this site was to provide some information about mindfulness.
 - I wanted it to be minimalistic with a very simple but nice colour template.
-- The minimilistic approuch is always good leaving room for more features at a later stage.
+- The minimalistic approach is always good leaving room for more features at a later stage.
 
 
 ### Target Audiences: <a name="target-audience"></a>
 
-- Users looking for a dog daycare while they are away on holiday
-- Users looking for a dog daycare while they are at work
-- Users looking for a trusted alternative to other dog day care's
-
-### User Stories: <a name="user-stories"></a>
-
-- I expect clear and concise information about the page's subject matter to be prominently displayed.
-- I aim to swiftly locate the information I need by easily navigating through the page.
-- My goal is to leave the page feeling more informed about the subject than when I first arrived.
-- I should be able to effortlessly access the free resources provided on the page.
-- I desire the opportunity to engage and delve deeper into the subject matter by connecting or discussing with others who share an interest in it.
+- Users looking to improve their quality of life.
+- Users who are looking to look within themselves.
+- User who wants to live life to the best of their ability.
 
 ## Planning stage - How I will achieve this: <a name="how-i-will-achieve-this"></a>
 
-- The home page provides the user with clear information on our services and our features.
-
-- The eligibility page provides a user with a video instructing them on which information to provide via the form below it such as
-
-  1. General details about their dog; their name, age, breed, weight, have they been neutered or spayed and are there any existing medical conditions?
-  2. Vaccination details; Is your dog up-to-date on vaccinations and have they received recent treatment for ticks/fleas?
-  3. Behavior details; how does your dog typically interact with other dogs and how does your dog typically interact with other people?
-  4. Socialization details; have they previously attended a daycare? and do they know commands?
-  5. Owner details; first name, last name, email and phone number
-
-- The About Us page provides details of the founders and why they started Paw's play to create trust with the user
-
+- The home page provides the user with clear information on what mindfulness is about.
+- The techniques page provides some short meditation information and ways of incorporating mindfulness in your life.
+- There is a contact page form that gives access to them to write what questions or information they need.
 - The footer provides the user with contact details for them to get in touch
-
-- The footer provides the user with social links so they can get to know us more
-
-- The footer also provides the user with an optional newsletter sign-up so they can receive information on possible parties and discounts
+- The footer provides the user with social links so they can access more information on mindfulness.
+- The footer also has no names but icons also keeping true to the minimalistic view.
 
 ### Wireframes: <a name="wireframes"></a>
 
-To organize my thoughts I created wireframes for this project. Below are links to each of the mobile and desktop versions of my site.
+I created wireframes for this project. Below are links to my site's mobile and desktop versions.
 
 - Desktop wireframes:
   - [Home page](../docs/readme/wireframes/paws-play-homepage.png)
