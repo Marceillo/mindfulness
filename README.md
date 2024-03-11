@@ -91,6 +91,7 @@ I created wireframes for this project. Below are links to my site's mobile and d
 ## Color Scheme: <a name="color-scheme"></a>
 
 - I wanted colours  that match the hero's image as this would create a nice viewing experience.
+## Elements used on all pages: <a name="elements used on all pages"></a>
 
 ## Header Element <a name="header-element"></a>
 
