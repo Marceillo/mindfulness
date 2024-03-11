@@ -26,11 +26,9 @@ After a couple of hours of trial and error, I had to delete the repository and s
    - [**Header element**](#header-element)
    - [**_Navigation_**](#navigation)
    - [**Footer element**](#footer-element)
-     - [**_Contact us_**](#contact-us)
+     - [**_Contact**](#contact)
      - [**_Socials_**](#socials)
-     - [**_Newsletter_**](#newsletter)
-     - [**_Copyright_**](#copyright)
-   - [**Typography**](#typography)
+     - [**Typography**](#typography)
 5. [**Individual page elements**](#individual-page-elements)
    - [**Home hero section**](#home-hero)
    - [**Home eligibility section**](#home-eligibility)
@@ -91,7 +89,8 @@ I created wireframes for this project. Below are links to my site's mobile and d
 ## Color Scheme: <a name="color-scheme"></a>
 
 - I wanted colours  that match the hero's image as this would create a nice viewing experience.
-## Elements used on all pages: <a name="elements used on all pages"></a>
+
+## Elements used on all pages: <a name="elements-used-on-all-pages"></a>
 
 ## Header Element <a name="header-element"></a>
 
@@ -101,26 +100,23 @@ The header element is stuck to the top of the page, there were difficulties when
 
 ##### Navigation for screen sizes larger than 786px:
 
-![navigation](assets/gallery/Navigation bar.png) 
+![navigation](assets/gallery/navigation-bar.png) 
 
 ##### Navigation for screen sizes smaller than 786px:
 
-![navigation small](../docs/readme/navigation-readme-small.png)
+![navigation small](assets/gallery/mobile-nav-bar.png)
 
 - The navigation appears on all pages.
-- It contains links to home, about and eligibility.
-- When the user is on a specific page, the link corresponding to their page will have the classes "active" and "bg-active", the "active" class applies to the links appearing on screen sizes larger than 786px and applies colour and font-weight to the links, the "bg-active" class applies to the links on screen sizes smaller than 786px and applies a background colour to the links.
+- It contains links to home, techniques, contact 
+- When the user is on a specific page, the link corresponding to their page will have the classes "active".
 
 ## Footer Element <a name="footer-element"></a>
 
-The footer element is at the very bottom of every page, it includes the following 4 features:
+The footer element is at the very bottom of every page and has the social media icons sources from awsemfonts.
 
-### Contact us: <a name="contact-us"></a>
+### Contact: <a name="contact"></a>
 
-![contact us](../docs/readme/contact-us-readme.png)
-
-- The Contact Us section in the footer has a header stating it's the Contact Us section.
-- The Contact Us section contains 3 ways of contacting us; the first is the support phone number, the second is the location of the dog daycare for in-person support and the third is the support email.
+![contact](../docs/readme/contact-us-readme.png)
 
 ### Socials: <a name="socials"></a>
 
@@ -129,8 +125,6 @@ The footer element is at the very bottom of every page, it includes the followin
 - The socials section in the footer has a header stating it's the socials section.
 - The socials section contains 4 links that would take the user to its 4 different accounts on various social media platforms.
 - The platforms are Instagram, YouTube, Twitter and Facebook (Paw's Play doesn't have accounts with these platforms these are just for proof of concept)
-
-### Newsletter: <a name="newsletter"></a>
 
 ## Typography <a name="typography"></a>
 
