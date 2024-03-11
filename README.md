@@ -152,8 +152,19 @@ It also uses Montserrat as a second font.
 
 ### HTML validator results:
 
-![Html validator](assets/gallery/)
+![Html Validator](assets/gallery/html-validator.png)
 
+### CSS validator results:
+
+![CSS Validator](assets/gallery/css-validator.png)
+
+### Lighthouse desktop results:
+
+![Light House Desktop ](assets/gallery/desktop-test11.png)
+
+### Lighthouse mobile results:
+
+![Light House Desktop ](assets/gallery/mobile-test12.png)
 
 ## Deployment <a name="deployment"></a>
 
