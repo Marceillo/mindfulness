@@ -137,14 +137,14 @@ It also uses Montserrat as a second font.
 - This section shows a Buddha sitting peacefully in the forest near a river meditating with eyes closed.
 - This also has a hidden button describing  the image for the visually impaired.
 
-![Techniques](assets/gallery/site-techniques.png)
+![Hero image](assets/gallery/11zon_croped.webp)
 
 ### Techniques: <a name="techniques"></a>
 
 - This section displays an illustration of the founder's Grace and Thomas Shelby (yes this is a reference to the Netflix series "The Peaky Blinders").
 - This section also displays a paragraph of how they got started and the vision behind the company; in summary, they both love dogs and want a safe and enjoyable environment for them.
 
-![About our story](../docs/readme/about-our-story.png)
+![Techniques](assets/gallery/site-techniques.png)
 
 ### About Our Mission Section Content: <a name="about-our-mission"></a>
 
