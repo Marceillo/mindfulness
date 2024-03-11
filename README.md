@@ -133,13 +133,7 @@ The footer element is at the very bottom of every page and has the social media 
 - The section has two headings and two paragraphs
 - It has an image of a Buddha meditating.
 
-
 ![Hero section]()
-
-### Home: <a name="home"></a>
-
-- This is the section the user first sees I wanted this to be straight to the point.
-- It has two headings and two paragraphs, not much detail or overwhelming images and content.
 
 ![Home](assets/gallery/site-home-page.png)
 
