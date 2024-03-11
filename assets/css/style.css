@@ -172,7 +172,7 @@ ul#media-networks {
         position: fixed;
         top: 0;
         left: 0;
-        width: 100%;
+        width: 70%;
         z-index: 100;
 
     }
@@ -195,6 +195,7 @@ ul#media-networks {
     #hero {
         height: 300px;
         width: 100%;
+        
        
 
 
@@ -236,7 +237,7 @@ ul#media-networks {
     #hero {
         height: 400px;
         width: 100%;
-        margin-top: 30px;
+        margin-top: 35px;
     }
 
     footer {
