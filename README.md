@@ -115,28 +115,28 @@ The footer element is at the very bottom of every page and has the social media 
 
 ### Socials: <a name="socials"></a>
 
-![socials](../docs/readme/socials-readme.png)
+![socials](assets/gallery/larger-screen-footer.png)
 
-- The socials section in the footer has a header stating it's the socials section.
-- The socials section contains 4 links that would take the user to its 4 different accounts on various social media platforms.
-- The platforms are Instagram, YouTube, Twitter and Facebook (Paw's Play doesn't have accounts with these platforms these are just for proof of concept)
+- There are four links in the footer to take the user to different media platforms.
+- The platforms are Instagram, YouTube, Twitter and Facebook (There are no accounts for mindfulness only the links)
 
 ## Typography <a name="typography"></a>
 
-- The Paw's Play site uses the font Poppins.
-- Also sans-serif for a back-up font.
-- The Poppins font was used because it compliments the site's overall look, furthermore, it adds a modern feel which is industry standard in today's day and age.
+- The site uses the Roboto font.
+- Also 
+- The font was used as it is a popular font and fits well with the site.
 
 ## Individual page elements <a name="individual-page-elements"></a>
 
 ### Home Hero Section Content: <a name="home-hero"></a>
 
-- This section is what the customer sees first so it is important that the information about the site and what it does is in front of them and it is.
-- This section contains a cheerful header that catches the attention of users.
-- This section contains a paragraph telling the user that it is dog daycare is like the dog version of a VIP stay.
-- This section also displays an illustration of a woman petting a dog, setting a joyful experience for the user.
+- This is the first view of the user and I wanted it to be short and sweet.
+- The header is very simple and gives the user immediate access to the other pages.
+- The section has two headings and two paragraphs
+- It has an image of a Buddha meditating.
 
-![Hero section](../docs/readme/hero-section-readme.png)
+
+![Hero section]()
 
 ### Home Eligibility Section Content: <a name="home-eligibility"></a>
 
