@@ -83,6 +83,7 @@ I created wireframes for this project. Below are links to my site's mobile and d
 
 - Desktop wireframes:
   - [Home page](../assets/wireframe/Home.png)
+  - [Techniques page] (../assets/wireframe/Techniques page.png)
     
 
 ## Color Scheme: <a name="color-scheme"></a>
