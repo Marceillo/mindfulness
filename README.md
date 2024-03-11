@@ -82,7 +82,7 @@ After a couple of hours of trial and error, I had to delete the repository and s
 I created wireframes for this project. Below are links to my site's mobile and desktop versions.
 
 - Desktop wireframes:
-  - [Home page](../assets/wireframe/home.png)
+  - [Home page](assets/wireframe/home.png)
 - Techniques wireframe:
   - [Techniques page](../assets/wireframe/techniques-page.png)-Contact wireframe:
 - Contact page: 
