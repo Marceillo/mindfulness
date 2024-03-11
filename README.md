@@ -140,14 +140,12 @@ The footer element is at the very bottom of every page and has the social media 
 
 ### Home Eligibility Section Content: <a name="home-eligibility"></a>
 
-- This section is how the customer is first introduced to the eligibility section through the home page.
-- This section states how important the eligibility section is to Paw's Play as it is how they ensure that the daycare is a safe and enjoyable environment for all dogs.
-- This section also displays a joyful illustration of a woman sitting with a dog, once again setting a fun experience.
+- This is the section the user first sees I wanted this to be straight to the point.
+- It has two headings and two paragraphs, not mush detail or overwhelming images and content.
 
-![Home eligibility](../docs/readme/home-eligibility-readme.png)
+![Home eligibility](assets/gallery/site-home-page.png)
 
 ### Home What We Do Best Section Content: <a name="home-what-we-do-best"></a>
-
 - This section tells the user what Paw's Play does best when it comes to its daycare services. This section's key points are Dog daycare, Dog training, Health and wellness and Puppy training.
 - The paragraphs in each key point section describe the service provided in detail.
 - In every key point section, check icons show the guaranteed service from each key point.
