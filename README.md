@@ -152,31 +152,29 @@ It also uses Montserrat as a second font.
 
 ### HTML validator results:
 
-![Html Validator](assets/gallery/html-validator.png)
+![Html Test Validator](assets/gallery/html-validator.png)
 
 ### CSS validator results:
 
-![CSS Validator](assets/gallery/css-validator.png)
+![CSS Test Validator](assets/gallery/css-validator.png)
 
 ### Lighthouse desktop results:
 
-![Light House Desktop ](assets/gallery/desktop-test11.png)
+![Light House Test Desktop ](assets/gallery/desktop-test11.png)
 
 ### Lighthouse mobile results:
 
-![Light House Desktop ](assets/gallery/mobile-test12.png)
+![Light House Test Mobile ](assets/gallery/mobile-test12.png)
 
 ## Deployment <a name="deployment"></a>
 
-I deployed the site on GitHub using the following procedure:
+Deployed the site on GitHub using the following procedure:
 
-1. Once on the project's repository, I clicked on the _settings_ tab.
-2. Then select the _Pages_ tab.
-3. Then under the _Source_ section, I selected the _Main_ branch from the dropdown menu and clicked _Save_.
-4. After a few minutes, the page was deployed.
+1. By clicking Repository/settings/pages 
+2. Selecting the source tab then change to the main branch and save.
+3. I then went to the deployed site and viewed the live site.
    
-
-Link to the [live site](https://ilyasolgun11.github.io/paws-play-pp1/index.html).
+Url link [live site](https://marceillo.github.io/mindfulness/index.html).
 
 ## Credits <a name="credits"></a>
 
