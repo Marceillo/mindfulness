@@ -71,11 +71,11 @@ After a couple of hours of trial and error, I had to delete the repository and s
 ## Planning stage - How I will achieve this: <a name="how-i-will-achieve-this"></a>
 
 - The home page provides the user with clear information on what mindfulness is about.
-- The techniques page provides some short meditation information and ways of incorporating mindfulness in your life.
+- The techniques page provides short meditation information and ways of incorporating mindfulness in your life.
 - There is a contact page form that gives access to them to write what questions or information they need.
 - The footer provides the user with contact details for them to get in touch
 - The footer provides the user with social links so they can access more information on mindfulness.
-- The footer also has no names but icons also keeping true to the minimalistic view.
+- The footer also has no names but icons keeping true to the minimalistic view.
 
 ### Wireframes: <a name="wireframes"></a>
 
@@ -96,7 +96,7 @@ I created wireframes for this project. Below are links to my site's mobile and d
 
 ## Color Scheme: <a name="color-scheme"></a>
 
-When deciding on the color scheme, I decided I should go with colors matching the illustrations I got from [icons8](https://icons8.com/illustrations/animal/dog/technique--3d) i selected a pink-ish color to compliment the illustration perfectly and used the color [grader site](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFF%2C%20%0D%0A%23d298aa%0D%0A%23d56589%2C%0D%0A%23a7244e%2C%20%0D%0A%23131313%2C%20%0D%0A%2300000%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) to check the contrast scores, using the grid showed me which background colors match with which text color so the site is accessible to everyone.
+When deciding on the color scheme, I decided I should go with colors matching the illustrations I got from [icons8](https://icons8.com/illustrations/animal/dog/technique--3d) i selected a pink-ish color to compliment the illustration perfectly and used the color [grader site](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFF%2C%20%0D%0A%23d298aa%0D%0A%23d56589%2C%0D%0A%23a7244e%2C%20%0D%0A%23131313%2C%20%0D%0A%2300000%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) to check the contrast scores, using the grid showed me which background colours match with which text colour so the site is accessible to everyone.
 
 ![Color grader result](../docs/readme/color-grader.png);
 
@@ -125,7 +125,7 @@ The header element is stuck to the top of the page, Although it was a challengin
 
 - The navigation appears on all pages.
 - It contains links to home, about and eligibility.
-- When the user is on a specific page, the link corresponding to their page will have the classes "active" and "bg-active", the "active" class applies to the links appearing on screen sizes larger than 786px and applies color and font-weight to the links, the "bg-active" class applies to the links on screen sizes smaller than 786px and applies a background color to the links.
+- When the user is on a specific page, the link corresponding to their page will have the classes "active" and "bg-active", the "active" class applies to the links appearing on screen sizes larger than 786px and applies colour and font-weight to the links, the "bg-active" class applies to the links on screen sizes smaller than 786px and applies a background colour to the links.
 
 ## Footer Element <a name="footer-element"></a>
 
