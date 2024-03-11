@@ -3,7 +3,7 @@
 
 Welcome to mindfulness [Mindfulness](https://marceillo.github.io/mindfulness/index.html).
 
-![Mindfulness ](assets/gallery)
+![Mindfulness ](assets/gallery/responsive.ping)
 
 ## Site Overview <a name="site-overview"></a>
 
