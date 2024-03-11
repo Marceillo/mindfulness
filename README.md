@@ -30,9 +30,7 @@ After a couple of hours of trial and error, I had to delete the repository and s
      - [**Typography**](#typography)
 5. [**Individual page elements**](#individual-page-elements)
    - [**Home hero section**](#home-hero)
-   - [**Home eligibility section**](#home-eligibility)
-   - [**Home what we do best section**](#home-what-we-do-best)
-   - [**Home location section**](#home-location)
+   - [**Home**](#home)
    - [**Eligibility hero section**](#eligibility-hero)
    - [**Eligibility video section**](#eligibility-video)
    - [**Eligibility form section**](#eligibility-form)
@@ -138,26 +136,12 @@ The footer element is at the very bottom of every page and has the social media 
 
 ![Hero section]()
 
-### Home Eligibility Section Content: <a name="home-eligibility"></a>
+### Home: <a name="home"></a>
 
 - This is the section the user first sees I wanted this to be straight to the point.
-- It has two headings and two paragraphs, not mush detail or overwhelming images and content.
+- It has two headings and two paragraphs, not much detail or overwhelming images and content.
 
-![Home eligibility](assets/gallery/site-home-page.png)
-
-### Home What We Do Best Section Content: <a name="home-what-we-do-best"></a>
-- This section tells the user what Paw's Play does best when it comes to its daycare services. This section's key points are Dog daycare, Dog training, Health and wellness and Puppy training.
-- The paragraphs in each key point section describe the service provided in detail.
-- In every key point section, check icons show the guaranteed service from each key point.
-
-![Home what we do best](../docs/readme/home-what-we-do-best-readme.png)
-
-### Home Location Section Content: <a name="home-location"></a>
-
-- This section shows the user the company location with a Google Maps location pin.
-- This section has an illustration of a couple walking a dog showing an image insinuating that they are going to the dog daycare.
-
-![Home location](../docs/readme/home-location-readme.png)
+![Home](assets/gallery/site-home-page.png)
 
 ### Eligibility Hero Section Content: <a name="eligibility-hero"></a>
 
