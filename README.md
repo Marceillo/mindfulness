@@ -65,7 +65,7 @@ After a couple of hours of trial and error, I had to delete the repository and s
 ### Target Audiences: <a name="target-audience"></a>
 
 - Users looking to improve their quality of life.
-- Users who are looking to look within themselves.
+- Users who are looking within themselves.
 - User who wants to live life to the best of their ability.
 
 ## Planning stage - How I will achieve this: <a name="how-i-will-achieve-this"></a>
@@ -73,7 +73,7 @@ After a couple of hours of trial and error, I had to delete the repository and s
 - The home page provides the user with clear information on what mindfulness is about.
 - The techniques page provides short meditation information and ways of incorporating mindfulness in your life.
 - There is a contact page form that gives access to them to write what questions or information they need.
-- The footer provides the user with contact details for them to get in touch
+- The footer provides the user with contact details for them to get in touch via social media.
 - The footer provides the user with social links so they can access more information on mindfulness.
 - The footer also has no names but icons keeping true to the minimalistic view.
 
@@ -82,23 +82,12 @@ After a couple of hours of trial and error, I had to delete the repository and s
 I created wireframes for this project. Below are links to my site's mobile and desktop versions.
 
 - Desktop wireframes:
-  - [Home page](../docs/readme/wireframes/paws-play-homepage.png)
-  - [About page](../docs/readme/wireframes/paws-play-about-page.png)
-  - [Eligibility page](../docs/readme/wireframes/paws-play-eligibility-page.png)
-  - [Eligibility submission page](../docs/readme/wireframes/paws-play-eligibility-submission.png)
-  - [Newsletter page](../docs/readme/wireframes/paws-play-newsletter-page.png)
-- Mobile wireframes:
-  - [Home page](../docs/readme/wireframes/paws-play-mobile-homepage.png)
-  - [About page](../docs/readme/wireframes/paws-play-mobile-aboutpage.png)
-  - [Eligibility page](../docs/readme/wireframes/paws-play-mobile-eligibility-page.png)
-  - [Eligibility submission page](../docs/readme/wireframes/paws-play-mobile-eligibility-submission-page.png)
-  - [Newsletter page](../docs/readme/wireframes/paws-play-mobile-newsletter-submission-page.png)
+  - [Home page](../assets/wireframe/)
+    
 
 ## Color Scheme: <a name="color-scheme"></a>
 
-When deciding on the color scheme, I decided I should go with colors matching the illustrations I got from [icons8](https://icons8.com/illustrations/animal/dog/technique--3d) i selected a pink-ish color to compliment the illustration perfectly and used the color [grader site](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFF%2C%20%0D%0A%23d298aa%0D%0A%23d56589%2C%0D%0A%23a7244e%2C%20%0D%0A%23131313%2C%20%0D%0A%2300000%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) to check the contrast scores, using the grid showed me which background colours match with which text colour so the site is accessible to everyone.
-
-![Color grader result](../docs/readme/color-grader.png);
+- I wanted colours  that match the hero's image as this would create a nice viewing experience.
 
 ## Elements used on all pages <a name="elements-used-on-all-pages"></a>
 
