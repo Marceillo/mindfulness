@@ -84,12 +84,10 @@ I created wireframes for this project. Below are links to my site's mobile and d
 - Desktop wireframes:
   - [Home page](../assets/wireframe/home.png)
 -Techniques wireframe:
-  - [Techniques page](../assets/wireframe/techniques-page.png)
--Contact wireframe:
-  . [Contact page](../assets/wireframe/contact-page.png)
- 
-
-    
+  - [Techniques page](../assets/wireframe/techniques-page.png)-Contact wireframe:
+-Contact page: 
+  -[Contact page](../assets/wireframe/contact-page.png)
+   
 
 ## Color Scheme: <a name="color-scheme"></a>
 
