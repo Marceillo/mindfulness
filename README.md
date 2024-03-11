@@ -31,7 +31,7 @@ After a couple of hours of trial and error, I had to delete the repository and s
    - [**Footer element**](#footer-element)
      - [**_Socials_**](#socials)
      - [**Typography**](#typography)
-6. [**Individual page elements**](#individual-page-elements)
+6. [**features**](#features)
    - [**Home**](#home)
    - [**Techniques**](#techniques)
    - [**Contact**](#contact)
@@ -122,7 +122,7 @@ The footer element is at the very bottom of every page and has the social media 
 It also uses Montserrat as a second font.
 - The fonts were used as it is a popular font and fit well with the site.
 
-## Individual page elements <a name="individual-page-elements"></a>
+## Features <a name="features"></a>
 
 ### Home: <a name="home"></a>
 
