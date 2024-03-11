@@ -29,16 +29,12 @@ After a couple of hours of trial and error, I had to delete the repository and s
      - [**_Socials_**](#socials)
      - [**Typography**](#typography)
 5. [**Individual page elements**](#individual-page-elements)
-   - [**Home hero section**](#home-hero)
    - [**Home**](#home)
    - [**Techniques**](#techniques)
-   - [**About our mission section**](#about-our-mission)
-   - [**About our trainer's section**](#about-our-trainers)
-   - [**About join the family section**](#about-join-the-family)
-6. [**Future enhancements**](#future-enhancements)
-7. [**Testing phase**](#testing-phase)
-8. [**Deployment**](#deployment)
-9. [**Credits**](#credits)
+   - [**Contact**](#contact)
+6. [**Testing phase**](#testing-phase)
+7. [**Deployment**](#deployment)
+8. [**Credits**](#credits)
    - [**_Honorable mentions_**](#honorable-mentions)
    - [**_General reference_**](#general-reference)
    - [**_Content_**](#content)
@@ -123,7 +119,7 @@ It also uses Montserrat as a second font.
 
 ## Individual page elements <a name="individual-page-elements"></a>
 
-### Home Hero Section Content: <a name="home-hero"></a>
+### Home: <a name="home"></a>
 
 - This is the first view of the user and I wanted it to be short and sweet.
 - The header is very simple and gives the user immediate access to the other pages.
@@ -137,42 +133,20 @@ It also uses Montserrat as a second font.
 - This section shows a Buddha sitting peacefully in the forest near a river meditating with eyes closed.
 - This also has a hidden button describing  the image for the visually impaired.
 
-![Hero image](assets/gallery/11zon_croped.webp)
+![Hero image](assets/gallery/11zon_cropped.webp)
 
 ### Techniques: <a name="techniques"></a>
 
-- This section displays an illustration of the founder's Grace and Thomas Shelby (yes this is a reference to the Netflix series "The Peaky Blinders").
-- This section also displays a paragraph of how they got started and the vision behind the company; in summary, they both love dogs and want a safe and enjoyable environment for them.
+- There are exercises in this section for the user to try out and experience mindfulness.
 
 ![Techniques](assets/gallery/site-techniques.png)
 
-### About Our Mission Section Content: <a name="about-our-mission"></a>
+### Contact: <a name="contact"></a>
 
-- This section displays an illustration of Grace and Thomas Shelby (founders) "planning" with sticky notes, showing the user a relevant image to the paragraph next to it.
-- This section also displays a paragraph showing the user the mission of Paw's Play and how it transcends pet care.
+- This section has a form that allows the user to contact the site and provide questions. 
+- The form uses a code institute server which displays the information as typed once submitted.
 
-![About our mission](../docs/readme/our-mission-readme.png)
-
-### About Our Trainers Section Content: <a name="about-our-trainers"></a>
-
-- This section displays 3 sections containing information about the 3 trainers at Paw's Play.
-- Each section has an illustration of the trainer, their name, their profession and their biography.
-
-![About our trainers](../docs/readme/our-trainers-readme.png)
-
-### About Join The Family Section Content: <a name="about-join-the-family"></a>
-
-- This section displays an illustration similar to the one for the eligibility hero section to convey they are related.
-- This section has a header saying "Join the Family" to convey that once you are a customer with Paw's Play, you become a family member too.
-- This section also has a paragraph that conveys the message from the header and also has a call to action to navigate the user to the eligibility page.
-
-![About join the family](../docs/readme/join-the-family-readme.png)
-
-## Future-Enhancements <a name="future-enhancements"></a>
-
-- The future intentions of this website will be a landing page for anyone looking for a dog daycare in the north London area. The functionality I want to add in the future is a database where the user's eligibility submissions could go, with the data Paw's Play obtains we can easily know everything that we need to know to follow up with customers who are interested in our services.
-- Once I learn JavaScript I would love to add a sign-up page where users can join the Paw's Play community.
-- I would also love to make a Paw's Play app where owners can see their dog's day-to-day achievements regarding new tricks and new commands they have learned; Also a section where they can see a live broadcast of the main hall where the dogs are kept so they can see what their pooch is doing whenever they want.
+![Contact](assets/gallery/site-contact.png)
 
 ## Testing Phase <a name="testing-phase"></a>
 
@@ -186,6 +160,7 @@ I deployed the site on GitHub using the following procedure:
 2. Then select the _Pages_ tab.
 3. Then under the _Source_ section, I selected the _Main_ branch from the dropdown menu and clicked _Save_.
 4. After a few minutes, the page was deployed.
+   
 
 Link to the [live site](https://ilyasolgun11.github.io/paws-play-pp1/index.html).
 
