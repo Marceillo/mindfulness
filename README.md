@@ -1,7 +1,7 @@
 
 # Mindfulness
 
-Welcome to mindfulness [Mindfulness](https://marceillo.github.io/mindfulness/index.html).
+Welcome to the mindfulness live link [Mindfulness](https://marceillo.github.io/mindfulness/index.html).
 
 ![Mindfulness ](assets/gallery/responsive.ping)
 
