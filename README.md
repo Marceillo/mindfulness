@@ -3,7 +3,7 @@
 
 Welcome to the mindfulness live link [Mindfulness](https://marceillo.github.io/mindfulness/index.html).
 
-![Mindfulness ](assets/gallery/responsive.ping)
+![Mindfulness ](assets/gallery/responsive.png)
 
 ## Site Overview <a name="site-overview"></a>
 
