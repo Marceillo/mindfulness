@@ -26,7 +26,6 @@ After a couple of hours of trial and error, I had to delete the repository and s
    - [**Header element**](#header-element)
    - [**_Navigation_**](#navigation)
    - [**Footer element**](#footer-element)
-     - [**_Contact**](#contact)
      - [**_Socials_**](#socials)
      - [**Typography**](#typography)
 5. [**Individual page elements**](#individual-page-elements)
@@ -113,10 +112,6 @@ The header element is stuck to the top of the page, there were difficulties when
 ## Footer Element <a name="footer-element"></a>
 
 The footer element is at the very bottom of every page and has the social media icons sources from awsemfonts.
-
-### Contact: <a name="contact"></a>
-
-![contact](../docs/readme/contact-us-readme.png)
 
 ### Socials: <a name="socials"></a>
 
