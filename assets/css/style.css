@@ -82,11 +82,16 @@ header {
 
 }
 
+
+
 .list li a:hover {
     background: #bdb76b;
 }
 
-
+.list li a.active {
+    background: #bdb76b;
+    text-underline-position: below;
+}
 
 /*Main*/
 main {
