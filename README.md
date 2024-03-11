@@ -1,11 +1,13 @@
+
 # Mindfulness
+
+Welcome to mindfulness [Mindfulness](https://marceillo.github.io/mindfulness/index.html).
+
+![Mindfulness ](assets/gallery)
 
 ## Site Overview <a name="site-overview"></a>
 
 The site is about mindfulness, the ability of human beings to be fully present and aware of time and space around them. The site is small and straight to the point with a minimalistic feel. 
-
-
-
 
 ## Previous Repository <a name="minfulness01"></a>
 
@@ -16,29 +18,32 @@ After a couple of hours of trial and error, I had to delete the repository and s
 
 1. [**Site Overview**](#site-overview)
 2. [**Previous Repository**](#previous-repository)
-3. [**Planning stage**](#planning-stage)
+3. [**User Experience**](#user-experience)
+4. [**Planning stage**](#planning-stage)
    - [**_Site aims_**](#site-aims)
    - [**_Target audience_**](#target-audience)
    - [**_How I will achieve this:_**](#how-i-will-achieve-this)
    - [**_Wireframes_**](#wireframes)
    - [**_Color scheme_**](#color-scheme)
-4. [**Elements used on all pages**](#elements-used-on-all-pages)
+5. [**Elements used on all pages**](#elements-used-on-all-pages)
    - [**Header element**](#header-element)
    - [**_Navigation_**](#navigation)
    - [**Footer element**](#footer-element)
      - [**_Socials_**](#socials)
      - [**Typography**](#typography)
-5. [**Individual page elements**](#individual-page-elements)
+6. [**Individual page elements**](#individual-page-elements)
    - [**Home**](#home)
    - [**Techniques**](#techniques)
    - [**Contact**](#contact)
-6. [**Testing**](#testing)
-7. [**Deployment**](#deployment)
-8. [**Credits**](#credits)
+7. [**Testing**](#testing)
+8. [**Deployment**](#deployment)
+9. [**Credits**](#credits)
    - [**_Honorable mentions_**](#honorable-mentions)
    - [**_General reference_**](#general-reference)
    - [**_Content_**](#content)
    - [**_Media_**](#media)
+
+## User Experience <a name="user-experience"></a>
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -166,6 +171,25 @@ It also uses Montserrat as a second font.
 
 ![Light House Test Mobile ](assets/gallery/mobile-test12.png)
 
+## Future Features 
+
+* A 'Shop' section for projects that have been completed and are ready for purchasing.
+    * This would incorporate an e-commerce platform and an enhanced gallery page.
+* An option to livestream the workshop.
+    * Particularly of interest to those whose projects are underway.
+* Introduce swipe actions for use on mobile devices for the project sliders.
+
+[Back to top](<#contents>)
+
+# Technologies Used
+* [HTML5](https://html.spec.whatwg.org/) - provides the content and structure for the website.
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides the styling.
+* [Balsamiq](https://balsamiq.com/wireframes/) - used to create the wireframes.
+* [Gitpod](https://www.gitpod.io/#get-started) - used to deploy the website.
+* [Github](https://github.com/) - used to host and edit the website.
+
+[Back to top](<#contents>)
+
 ## Deployment <a name="deployment"></a>
 
 Deployed the site on GitHub using the following procedure:
@@ -174,7 +198,9 @@ Deployed the site on GitHub using the following procedure:
 2. Selecting the source tab then change to the main branch and save.
 3. I then went to the deployed site and viewed the live site.
    
-Url live link [Mindfulness](https://marceillo.github.io/mindfulness/index.html).
+Fork the project:
+
+Clone the project:
 
 ## Credits <a name="credits"></a>
 
