@@ -93,8 +93,6 @@ I created wireframes for this project. Below are links to my site's mobile and d
 
 - I wanted colours  that match the hero's image as this would create a nice viewing experience.
 
-## Elements used on all pages <a name="elements-used-on-all-pages"></a>
-
 ## Header Element <a name="header-element"></a>
 
 The header element is stuck to the top of the page, there were difficulties when it came to different screen sizes but those bugs were resolved.
@@ -133,19 +131,6 @@ The footer element is at the very bottom of every page, it includes the followin
 - The platforms are Instagram, YouTube, Twitter and Facebook (Paw's Play doesn't have accounts with these platforms these are just for proof of concept)
 
 ### Newsletter: <a name="newsletter"></a>
-
-![newsletter](../docs/readme/newsletter-readme.png)
-
-- The newsletter section in the footer has a header stating it is the newsletter section.
-- The newsletter section contains an input form with a button for sign-up.
-- Once the newsletter input is filled and submitted the user will be taken to a thank you page.
-
-### Copyright: <a name="copyright"></a>
-
-![Copyright](../docs/readme/copyright-readme.png)
-
-- The copyright section in the footer has a copyright icon stating it is the copyright section.
-- The copyright section has a "2024" mark stating it is valid till 2024, this is just a dummy copyright for proof of concept.
 
 ## Typography <a name="typography"></a>
 
