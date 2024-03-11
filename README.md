@@ -31,10 +31,7 @@ After a couple of hours of trial and error, I had to delete the repository and s
 5. [**Individual page elements**](#individual-page-elements)
    - [**Home hero section**](#home-hero)
    - [**Home**](#home)
-   - [**Eligibility hero section**](#eligibility-hero)
-   - [**Eligibility video section**](#eligibility-video)
-   - [**Eligibility form section**](#eligibility-form)
-   - [**About our story section**](#about-our-story)
+   - [**Techniques**](#techniques)
    - [**About our mission section**](#about-our-mission)
    - [**About our trainer's section**](#about-our-trainers)
    - [**About join the family section**](#about-join-the-family)
@@ -121,8 +118,8 @@ The footer element is at the very bottom of every page and has the social media 
 ## Typography <a name="typography"></a>
 
 - The site uses the Roboto font.
-- Also 
-- The font was used as it is a popular font and fits well with the site.
+It also uses Montserrat as a second font.
+- The fonts were used as it is a popular font and fit well with the site.
 
 ## Individual page elements <a name="individual-page-elements"></a>
 
@@ -133,34 +130,16 @@ The footer element is at the very bottom of every page and has the social media 
 - The section has two headings and two paragraphs
 - It has an image of a Buddha meditating.
 
-![Hero section]()
-
 ![Home](assets/gallery/site-home-page.png)
 
-### Eligibility Hero Section Content: <a name="eligibility-hero"></a>
+### Hero Section Content: <a name="hero-section"></a>
 
-- This section shows the user the eligibility hero section with an illustration of a female veterinarian holding a dog.
-- This section also displays an h2 with the text eligibility showing the users that it's the eligibility section.
-- This section also displays a paragraph telling the user to scroll down and fill out the eligibility form to sign them up with Paw's Play.
+- This section shows a Buddha sitting peacefully in the forest near a river meditating with eyes closed.
+- This also has a hidden button describing  the image for the visually impaired.
 
-![Eligibility hero](../docs/readme/eligibility-hero.png)
+![Techniques](assets/gallery/site-techniques.png)
 
-### Eligibility Video Section Content: <a name="eligibility-video"></a>
-
-- This section displays a video created for Paw's Play telling the user the eligibility requirements.
-- This video was created by an animation company on Fiverr for Paw's Play.
-
-![Eligibility video](../docs/readme/eligibility-video.png)
-
-### Eligibility Form Section Content: <a name="eligibility-form"></a>
-
-- This section displays a form with 5 field sets for the user to fill in; the legends are General Details, Vaccinations, Behavior, Socialization and Owner Details.
-- The inputs with type="text" have labels that are only visible to screen readers for ascetic reasons.
-- Once the user fills out all required fields and clicks submit they will be navigated to the eligibility-submission.html page.
-
-![Eligibility form](../docs/readme/eligibility-form.png)
-
-### About Our Story Section Content: <a name="about-our-story"></a>
+### Techniques: <a name="techniques"></a>
 
 - This section displays an illustration of the founder's Grace and Thomas Shelby (yes this is a reference to the Netflix series "The Peaky Blinders").
 - This section also displays a paragraph of how they got started and the vision behind the company; in summary, they both love dogs and want a safe and enjoyable environment for them.
