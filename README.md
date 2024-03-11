@@ -174,7 +174,7 @@ Deployed the site on GitHub using the following procedure:
 2. Selecting the source tab then change to the main branch and save.
 3. I then went to the deployed site and viewed the live site.
    
-Url link [live site](https://marceillo.github.io/mindfulness/index.html).
+Url live link [Mindfulness](https://marceillo.github.io/mindfulness/index.html).
 
 ## Credits <a name="credits"></a>
 
