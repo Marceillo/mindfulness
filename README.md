@@ -45,7 +45,7 @@ After a couple of hours of trial and error, I had to delete the repository and s
 
 ## User Experience <a name="user-experience"></a>
 
-## Planning stage <a name="planning-stage"></a>
+### Planning stage <a name="planning-stage"></a>
 
 ### Site Aims: <a name="site-aims"></a>
 
