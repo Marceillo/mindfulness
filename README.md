@@ -100,7 +100,7 @@ The header element is stuck to the top of the page, there were difficulties when
 
 ##### Navigation for screen sizes larger than 786px:
 
-![navigation](../docs/readme/navigation-readme-large.png)
+![navigation](assets/gallery/Navigation bar.png) 
 
 ##### Navigation for screen sizes smaller than 786px:
 
