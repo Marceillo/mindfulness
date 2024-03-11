@@ -32,7 +32,7 @@ After a couple of hours of trial and error, I had to delete the repository and s
    - [**Home**](#home)
    - [**Techniques**](#techniques)
    - [**Contact**](#contact)
-6. [**Testing phase**](#testing-phase)
+6. [**Testing**](#testing)
 7. [**Deployment**](#deployment)
 8. [**Credits**](#credits)
    - [**_Honorable mentions_**](#honorable-mentions)
@@ -148,9 +148,12 @@ It also uses Montserrat as a second font.
 
 ![Contact](assets/gallery/site-contact.png)
 
-## Testing Phase <a name="testing-phase"></a>
+## Testing<a name="testing"></a>
 
-I have moved the details for the testing of the Paw's Play site to [Testing.md](../docs/TESTING.md)
+### HTML validator results:
+
+![Html validator](assets/gallery/)
+
 
 ## Deployment <a name="deployment"></a>
 
