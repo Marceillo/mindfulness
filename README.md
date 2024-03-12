@@ -151,10 +151,11 @@ It also uses Montserrat as a second font.
 
 - This section has a form that allows the user to contact the site and provide questions. 
 - I originally built  The form using a code institute server which displays the submitted information.
-- It know has an HTML page that appears with a message thanking the user for submitting.
+- It now has an HTML page that appears with a message thanking the user for submitting.
 
 ![Contact](assets/gallery/site-contact.png)
 
+![Thank You message](assets/gallery/thank-you-message.png)
 
 ## Testing<a name="testing"></a>
 
