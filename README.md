@@ -14,7 +14,7 @@ The site is about mindfulness, the ability of human beings to be fully present a
 One day into developing the site on Github the repository was not updating or synchronising with Gitpod.
 After several hours of trial and error, I had to delete the repository and start over. Luckily I made a copy of the basic code and was able not to lose more time in the process.
 
-## Table of contents
+## Table of contents <a name="table-of-contents"></a>
 
 1. [**Site Overview**](#site-overview)
 2. [**Previous Repository**](#previous-repository)
@@ -180,13 +180,13 @@ It also uses Montserrat as a second font.
 [Back to top](<#contents>)
 
 # Technologies Used
-* [HTML5](https://html.spec.whatwg.org/) - provides the content and structure for the website.
+* [HTML5](https://dev.w3.org/html5/spec-LC/introduction.html) - provides the content and structure for the website.
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides the styling.
 * [Balsamiq](https://balsamiq.com/wireframes/) - used to create the wireframes.
 * [Gitpod](https://www.gitpod.io/#get-started) - used to deploy the website.
 * [Github](https://github.com/) - used to host and edit the website.
 
-[Back to top](<#contents>)
+
 
 ## Deployment <a name="deployment"></a>
 
@@ -232,3 +232,5 @@ The only piece of code I was inspired by and modified was the navigation toggle 
   - File compression tool - [Tinypng](https://tinypng.com/)
   - File converter tool - [Pixelied](https://pixelied.com/convert/png-converter/png-to-webp)
   - README structure - Inspired by David Bower's [project](https://github.com/dnlbowers/modern-buddhism/blob/main/README.md)
+
+ [Back to top](<#table-of-contents>)
