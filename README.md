@@ -201,10 +201,9 @@ It also uses Montserrat as a second font.
 
 The mindfulness site was tested on the following browsers with no visible issues for the user. 
 - Google Chrome
-- Firefox
+- Mozilla Firefox
 - Microsoft Edge
 - Brave 
-
 
 ### Lighthouse desktop results:
 
@@ -213,6 +212,11 @@ The mindfulness site was tested on the following browsers with no visible issues
 ### Lighthouse mobile results:
 
 ![Light House Test Mobile ](assets/gallery/mobile-test12.png)
+
+### Known Bugs
+
+- The hero image sometimes moves into the header page using margins and padding to help with this.
+- The Paragraph on the home page on some viewports was not able to scroll a line break to assist with this problem.
 
 ### Future Features 
 
@@ -251,10 +255,7 @@ Deployed the site on GitHub using the following procedure:
 
 This project could not have happened without the support of the following people listed in no particular order:
 
-- David Bowers - My mentor David has been amazing in guiding me on how I can make an amazing project, if I get a distinction it is because of him.
-- Patrick Hladun - Tester and advisor, gave me some amazing tips on how I can improve my site.
-- Benjamin Schäfer - Tester and advisor, also gave me some amazing tips and pointed out bugs that I wouldn't have seen otherwise.
-- Ayisha Sandiford - Tester and advisor, pointed out some bugs I did not notice, really helpful!
+- 
 
 ### General reference: <a name="general-reference"></a>
 
