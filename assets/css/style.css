@@ -110,6 +110,11 @@ main {
 
 }
 
+/*Form message*/
+#message a {
+    color: #483c32;
+}
+
 @keyframes hero-zoom {
     from {
         transform: scale(1);
