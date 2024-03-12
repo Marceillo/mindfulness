@@ -25,13 +25,13 @@ After several hours of trial and error, I had to delete the repository and start
    - [**_How I will achieve this:_**](#how-i-will-achieve-this)
    - [**_Wireframes_**](#wireframes)
    - [**_Color scheme_**](#color-scheme)
-5. [**Elements used on all pages**](#elements-used-on-all-pages)
+5. [**features**](#features)
+6. [**Elements used on all pages**](#elements-used-on-all-pages)
    - [**Header element**](#header-element)
    - [**_Navigation_**](#navigation)
    - [**Footer element**](#footer-element)
-     - [**_Socials_**](#socials)
-     - [**Typography**](#typography)
-6. [**features**](#features)
+   - [**_Socials_**](#socials)
+   - [**Typography**](#typography)
    - [**Home**](#home)
    - [**Techniques**](#techniques)
    - [**Contact**](#contact)
@@ -85,6 +85,8 @@ I created wireframes for this project. Below are links to my site's mobile and d
 
 - I wanted colours  that match the hero's image as this would create a nice viewing experience.
 
+## Features <a name="features"></a>
+
 ## Elements used on all pages: <a name="elements-used-on-all-pages"></a>
 
 ## Header Element <a name="header-element"></a>
@@ -122,7 +124,6 @@ The footer element is at the very bottom of every page and has the social media 
 It also uses Montserrat as a second font.
 - The fonts were used as it is a popular font and fit well with the site.
 
-## Features <a name="features"></a>
 
 ### Home: <a name="home"></a>
 
