@@ -180,8 +180,8 @@ It also uses Montserrat as a second font.
 
 #### Fixes implemented
 
--The warnings were about having a headings tag in the section. I created hidden headings and this resolved the problem.
--The errors where the anchor tag did not have a closing tag although it should be self-closing. To solve this I created a closing tag.
+- The warnings were about having a headings tag in the section. I created hidden headings and this resolved the problem.
+- The errors where the anchor tag did not have a closing tag although it should be self-closing. To solve this I created a closing tag.
 
 ### CSS validator results:
 
