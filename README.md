@@ -25,7 +25,7 @@ After several hours of trial and error, I had to delete the repository and start
    - [**_How I will achieve this:_**](#how-i-will-achieve-this)
    - [**_Wireframes_**](#wireframes)
    - [**_Color scheme_**](#color-scheme)
-5. [**features**](#features)
+5. [**Features**](#features)
 6. [**Elements used on all pages**](#elements-used-on-all-pages)
    - [**Header element**](#header-element)
    - [**_Navigation_**](#navigation)
