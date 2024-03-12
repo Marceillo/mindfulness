@@ -168,7 +168,15 @@ It also uses Montserrat as a second font.
 
 #### Contact page:
 
-![Html Test Validator](assets/gallery/clear-validator-test.png)
+![Errors that were on all pages](assets/gallery/html-closing-tag-error.png)
+
+#### Errors Found:
+
+![Html Test Validator](assets/gallery/html-closing-tag-error.png)
+
+#### Warnings found:
+
+![Html Test Validator](assets/gallery/html-validator-h1warning.png)
 
 ### CSS validator results:
 
