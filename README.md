@@ -256,7 +256,8 @@ Deployed the site on GitHub using the following procedure:
 ### General reference: <a name="general-reference"></a>
 
 Special thank you to my mentor Precious Ijege for his ideas and criticism.  
-I found inspiration from my love of running for the hero section.
+I found inspiration from my love of running a project for the hero section.
+What was nice about the Love Running project was the practical experience.
 
 ### Content: <a name="content"></a>
 
