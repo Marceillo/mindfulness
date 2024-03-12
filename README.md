@@ -180,13 +180,15 @@ It also uses Montserrat as a second font.
 [Back to top](<#contents>)
 
 # Technologies Used
-* [HTML5](https://dev.w3.org/html5/spec-LC/introduction.html) - provides the content and structure for the website.
-* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides the styling.
-* [Balsamiq](https://balsamiq.com/wireframes/) - used to create the wireframes.
-* [Gitpod](https://www.gitpod.io/#get-started) - used to deploy the website.
-* [Github](https://github.com/) - used to host and edit the website.
-
-
+- [HTML5](https://dev.w3.org/html5/spec-LC/introduction.html) - provides the content and structure for the website.
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides the styling.
+- [Balsamiq](https://balsamiq.com/wireframes/) - used to create the wireframes.
+- [Gitpod](https://www.gitpod.io/#get-started) - used to deploy the website.
+- [Github](https://github.com/) - used to host and edit the website.
+- [Am I responsive](https://ui.dev/amiresponsive) - This tool tests the responsiveness of the site and provides an image used in the beginning of the document. 
+- [Jigsaw validator](https://jigsaw.w3.org/css-validator/) - used to look for errors and none standard css code.
+- [W3C validator](https://validator.w3.org/) - used to look for errors and none standard html code.
+- Google Chrome's lighthouse for performance and accessibility tests for mobile and desktop modes.
 
 ## Deployment <a name="deployment"></a>
 
