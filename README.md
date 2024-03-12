@@ -178,6 +178,11 @@ It also uses Montserrat as a second font.
 
 ![Html Test Validator](assets/gallery/html-validator-h1warning.png)
 
+#### Fixes implemented
+
+-The warnings were about having a headings tag in the section. I created hidden headings and this resolved the problem.
+-The errors where the anchor tag did not have a closing tag although it should be self-closing. To solve this I created a closing tag.
+
 ### CSS validator results:
 
 ![CSS Test Validator](assets/gallery/css-validator.png)
