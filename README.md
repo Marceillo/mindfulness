@@ -187,6 +187,25 @@ It also uses Montserrat as a second font.
 
 ![CSS Test Validator](assets/gallery/css-validator.png)
 
+### Responsiveness Test:
+
+* The responsive design was done manually with Chrome development tools built into the browser.
+
+|        | Galaxy Fold | Galaxy S8+ | iPhone 12pro | iPad mini  | iPad pro | Display <1024px | Display >1025px
+|--------|---------|-----------|----------|------|----------|-----------------|-----------------|
+| Render | pass    | pass      | pass     | pass | pass     | pass            | pass            |
+| Images | pass    | pass      | pass     | pass | pass     | pass            | pass            |
+| Links  | pass    | pass      | pass     | pass | pass     | pass            | pass            |
+
+### Browser Compatibility
+
+The mindfulness site was tested on the following browsers with no visible issues for the user. 
+- Google Chrome
+- Firefox
+- Microsoft Edge
+- Brave 
+
+
 ### Lighthouse desktop results:
 
 ![Light House Test Desktop ](assets/gallery/desktop-test11.png)
@@ -195,7 +214,7 @@ It also uses Montserrat as a second font.
 
 ![Light House Test Mobile ](assets/gallery/mobile-test12.png)
 
-## Future Features 
+### Future Features 
 
 - I would like to see the site with more content such as video, audio, and reading material.
 - Add a 30-day program that users can follow each day to track their progress as they go along.
