@@ -235,8 +235,10 @@ The mindfulness site was tested on the following browsers with no visible issues
 - [Am I responsive](https://ui.dev/amiresponsive) - This tool tests the responsiveness of the site and provides an image used in the beginning of the document. 
 - [Jigsaw validator](https://jigsaw.w3.org/css-validator/) - used to look for errors and none standard css code.
 - [W3C validator](https://validator.w3.org/) - used to look for errors and none standard html code.
+- [Optimizing background image](https://tinypng.com/) - used to optimize image for websites.
+- [Converting tool](https://convertio.co/image-converter/) - used to convert jpeg to webp file format.
 - Google Chrome's lighthouse for performance and accessibility tests for mobile and desktop modes.
-
+  
 ## Deployment <a name="deployment"></a>
 
 Deployed the site on GitHub using the following procedure:
@@ -251,32 +253,30 @@ Deployed the site on GitHub using the following procedure:
 
 ## Credits <a name="credits"></a>
 
-### Honorable mentions: <a name="honorable-mentions"></a>
-
-This project could not have happened without the support of the following people listed in no particular order:
-
-- 
-
 ### General reference: <a name="general-reference"></a>
 
-The only piece of code I was inspired by and modified was the navigation toggle functionality from the love-running project.
+I found inspiration from my love of running for the hero section.
 
 ### Content: <a name="content"></a>
 
-- All contents for this project have been inspired by Chat.GPT, and modified for this project by me.
-- All icons used are from [Font Awesome](https://fontawesome.com/)
-- Fonts were imported from [Google fonts](https://fonts.google.com/)
+- Due to time frames I used [perplexity](https://www.perplexity.ai/search/Find-the-drinks-vvwgjCJ4SO2hwVp07WtSKA)
+- Used icons from [Font Awesome](https://fontawesome.com/)
+- Fonts found and imported from [Google fonts](https://fonts.google.com/)
 
 ### Media <a name="media"></a>
 
 - Site:
-  - Illustrations were taken from [Icons8](https://icons8.com/illustrations)
-  - Eligibility form explainer video from [Fiverr](https://www.fiverr.com/) and it has been paid for and created by [Jump and Team](https://www.fiverr.com/jump_explainer/create-2d-animated-explainer-video-for-your-business?source=order_page_summary_gig_link_image&funnel=f84e587059164b9f98b4012a1686ac48)
-  - Google Maps API by [Google](https://developers.google.com/maps/documentation/javascript/get-api-key)
+  - [background image](https://www.pexels.com/photo/buddha-statue-grayscale-photo-714644/) - background image
+  - [Stackoverflow](https://stackoverflow.com/) - used for research.
+  - [W3schools](https://www.w3schools.com/) - used for research.
+  - [Html guidebook](https://htmlandcssguidebook.com/)  - used for research.
+  - [Inspiration for forms](https://www.youtube.com/watch?v=HiHHvTcHiEk&list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK)
+   
+ 
+    
 - README:
-  - Color grid contrast tool - [Eightshapes](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFFF%2C%20White%0D%0A%23F2F2F2%0D%0A%23DDDDDD%0D%0A%23CCCCCC%0D%0A%23888888%0D%0A%23404040%2C%20Charcoal%0D%0A%23000000%2C%20Black%0D%0A%232F78C5%2C%20Effective%20on%20Extremes%0D%0A%230F60B6%2C%20Effective%20on%20Lights%0D%0A%23398EEA%2C%20Ineffective%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp)
-  - File compression tool - [Tinypng](https://tinypng.com/)
-  - File converter tool - [Pixelied](https://pixelied.com/convert/png-converter/png-to-webp)
-  - README structure - Inspired by David Bower's [project](https://github.com/dnlbowers/modern-buddhism/blob/main/README.md)
+   - README structure - Inspired by Ilyas Olgun [project](https://github.com/ilyasolgun11/paws-play-pp1/blob/main/docs/TESTING.md)
+
+  
 
  [Back to top](<#table-of-contents>)
