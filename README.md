@@ -150,9 +150,11 @@ It also uses Montserrat as a second font.
 ### Contact: <a name="contact"></a>
 
 - This section has a form that allows the user to contact the site and provide questions. 
-- The form uses a code institute server which displays the information as typed once submitted.
+- I originally built  The form using a code institute server which displays the submitted information.
+- It know has an HTML page that appears with a message thanking the user for submitting.
 
 ![Contact](assets/gallery/site-contact.png)
+
 
 ## Testing<a name="testing"></a>
 
