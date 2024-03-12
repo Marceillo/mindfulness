@@ -12,7 +12,7 @@ The site is about mindfulness, the ability of human beings to be fully present a
 ## Previous Repository <a name="minfulness01"></a>
 
 One day into developing the site on Github the repository was not updating or synchronising with Gitpod.
-After a couple of hours of trial and error, I had to delete the repository and start over. Luckily I made a copy of the basic code and was able not to lose more time in the process.
+After several hours of trial and error, I had to delete the repository and start over. Luckily I made a copy of the basic code and was able not to lose more time in the process.
 
 ## Table of contents
 
@@ -173,11 +173,9 @@ It also uses Montserrat as a second font.
 
 ## Future Features 
 
-* A 'Shop' section for projects that have been completed and are ready for purchasing.
-    * This would incorporate an e-commerce platform and an enhanced gallery page.
-* An option to livestream the workshop.
-    * Particularly of interest to those whose projects are underway.
-* Introduce swipe actions for use on mobile devices for the project sliders.
+- I would like to see the site with more content such as video, audio, and reading material.
+- Add a 30-day program that users can follow each day to track their progress as they go along.
+- A blog page with book recommendations and event calendars.
 
 [Back to top](<#contents>)
 
