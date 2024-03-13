@@ -268,7 +268,7 @@ What was nice about the Love Running project was the practical experience.
 
 ### Content: <a name="content"></a>
 
-- Due to time frames I used [perplexity](https://www.perplexity.ai/search/Find-the-drinks-vvwgjCJ4SO2hwVp07WtSKA)
+- Due to the time frames I used for text content on the site. [perplexity](https://www.perplexity.ai/search/Find-the-drinks-vvwgjCJ4SO2hwVp07WtSKA)
 - Used icons from [Font Awesome](https://fontawesome.com/)
 - Fonts found and imported from [Google fonts](https://fonts.google.com/)
 
