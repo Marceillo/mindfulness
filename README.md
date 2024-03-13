@@ -224,7 +224,7 @@ The mindfulness site was tested on the following browsers with no visible issues
 ### Known Bugs:
 
 - The hero image sometimes moves into the header page using margins and padding to help with this.
-- Also, the hero image gave performance issues due to size I to crop, reformat, and improve performance.
+- Also, the hero image gave performance issues due to size I had to crop, reformat, and improve performance.
 - The Paragraph on the home page on some viewports was not able to scroll a line break to assist with this problem.
 
 [Back to top](<#contents>)
