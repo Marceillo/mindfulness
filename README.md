@@ -24,6 +24,7 @@ After several hours of trial and error, I had to delete the repository and start
    - [**_Target audience_**](#target-audience)
    - [**_How I will achieve this:_**](#how-i-will-achieve-this)
    - [**_Wireframes_**](#wireframes)
+   - [**Typography**](#typography)
    - [**_Color scheme_**](#color-scheme)
 5. [**Features**](#features)
 6. [**Elements used on all pages**](#elements-used-on-all-pages)
@@ -31,7 +32,6 @@ After several hours of trial and error, I had to delete the repository and start
    - [**_Navigation_**](#navigation)
    - [**Footer element**](#footer-element)
    - [**_Socials_**](#socials)
-   - [**Typography**](#typography)
    - [**Home**](#home)
    - [**Techniques**](#techniques)
    - [**Contact**](#contact)
@@ -79,6 +79,12 @@ I created wireframes for this project. Below are links to my site's mobile and d
   - ![Techniques page](assets/wireframe/techniques-page.png)-Contact wireframe:
 - Contact page: 
   - ![Contact page](assets/wireframe/contact-page.png)
+
+## Typography <a name="typography"></a>
+
+- The site uses the Roboto font.
+It also uses Montserrat as a second font.
+- The fonts were used as it is a popular font and fit well with the site.
    
 
 ## Color Scheme: <a name="color-scheme"></a>
@@ -118,12 +124,6 @@ The footer element is at the very bottom of every page and has the social media 
 - There are four links in the footer to take the user to different media platforms.
 - The platforms are Instagram, YouTube, Twitter and Facebook (There are no accounts for mindfulness only the links)
 
-## Typography <a name="typography"></a>
-
-- The site uses the Roboto font.
-It also uses Montserrat as a second font.
-- The fonts were used as it is a popular font and fit well with the site.
-
 
 ### Home: <a name="home"></a>
 
@@ -156,6 +156,12 @@ It also uses Montserrat as a second font.
 ![Contact](assets/gallery/site-contact.png)
 
 ![Thank You message](assets/gallery/thank-you-message.png)
+
+### Future Features 
+
+- I would like to see the site with more content such as video, audio, and reading material.
+- Add a 30-day program that users can follow each day to track their progress as they go along.
+- A blog page with book recommendations and event calendars.
 
 ## Testing<a name="testing"></a>
 
@@ -221,12 +227,6 @@ The mindfulness site was tested on the following browsers with no visible issues
 - The hero image sometimes moves into the header page using margins and padding to help with this.
 - Also, the hero image gave performance issues due to size I to crop, reformat, and improve performance.
 - The Paragraph on the home page on some viewports was not able to scroll a line break to assist with this problem.
-
-### Future Features 
-
-- I would like to see the site with more content such as video, audio, and reading material.
-- Add a 30-day program that users can follow each day to track their progress as they go along.
-- A blog page with book recommendations and event calendars.
 
 [Back to top](<#contents>)
 
