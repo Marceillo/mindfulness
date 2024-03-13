@@ -38,7 +38,6 @@ After several hours of trial and error, I had to delete the repository and start
 7. [**Testing**](#testing)
 8. [**Deployment**](#deployment)
 9. [**Credits**](#credits)
-   - [**_Honorable mentions_**](#honorable-mentions)
    - [**_General reference_**](#general-reference)
    - [**_Content_**](#content)
    - [**_Media_**](#media)
