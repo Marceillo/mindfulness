@@ -280,7 +280,7 @@ What was nice about the Love Running project was the practical experience.
   - [W3schools](https://www.w3schools.com/) - used for research.
   - [Html guidebook](https://htmlandcssguidebook.com/)  - used for research.
   - [Inspiration for forms](https://www.youtube.com/watch?v=HiHHvTcHiEk&list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK)
-  - 
+  - [Favicon](https://www.websiteplanet.com/webtools/favicon-generator/)
    
  
     
