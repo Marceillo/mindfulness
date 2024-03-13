@@ -219,6 +219,7 @@ The mindfulness site was tested on the following browsers with no visible issues
 ### Known Bugs
 
 - The hero image sometimes moves into the header page using margins and padding to help with this.
+- Also, the hero image gave performance issues due to size I to crop, reformat, and improve performance.
 - The Paragraph on the home page on some viewports was not able to scroll a line break to assist with this problem.
 
 ### Future Features 
@@ -276,6 +277,7 @@ What was nice about the Love Running project was the practical experience.
   - [W3schools](https://www.w3schools.com/) - used for research.
   - [Html guidebook](https://htmlandcssguidebook.com/)  - used for research.
   - [Inspiration for forms](https://www.youtube.com/watch?v=HiHHvTcHiEk&list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK)
+  - 
    
  
     
